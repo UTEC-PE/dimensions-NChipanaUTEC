@@ -33,6 +33,10 @@ class Vector {
             Operation cmp;
             return data[cmp(coordinates,dimensionSizes,dimensions)];
         } // TODO
+
+        ~Vector(){
+            delete(data);
+        }
 };
 
 #endif
