@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chip/Algoritmos y Estructuras de Datos/dimensions-NChipanaUTEC/main.cpp
+cstdlib
+-
+iostream
+-
+vector.h
+/home/chip/Algoritmos y Estructuras de Datos/dimensions-NChipanaUTEC/vector.h
+
+/home/chip/Algoritmos y Estructuras de Datos/dimensions-NChipanaUTEC/vector.h
+
